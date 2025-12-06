@@ -17,8 +17,7 @@
 11. [Complexity Analysis](#complexity-analysis)
 12. [Target Journals for Publication](#target-journals-for-publication)
 13. [References (25+ Scopus/SCI Indexed)](#references)
-14. [Video Presentation Links](#video-presentation-links)
-15. [Installation & Usage](#installation--usage)
+14. [Installation & Usage](#installation--usage)
 
 ---
 
