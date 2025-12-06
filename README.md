@@ -741,43 +741,7 @@ Storage: ~500 MB (all models + checkpoints)
 
 **Total: 30 high-quality, Scopus/SCI-indexed references with valid DOIs**
 
----
-
-## 🎥 Video Presentation Links
-
-### Submission Requirements
-
-**Video 1: Technical Presentation (15 minutes)**
-- Upload Location: [Google Drive Link - To be added]
-- Content Coverage:
-  - ✅ Literature review and research gaps
-  - ✅ Novel contributions and algorithm design
-  - ✅ Architecture walkthrough with diagrams
-  - ✅ Implementation details and code highlights
-  - ✅ Results visualization and comparative analysis
-  - ✅ Cross-validation and robustness testing
-
-**Video 2: Case Study Presentation (15 minutes)**
-- Upload Location: [Google Drive Link - To be added]
-- Content Coverage:
-  - ✅ Problem statement and clinical context
-  - ✅ Data preprocessing and handling
-  - ✅ Model development and training process
-  - ✅ Evaluation metrics and insights
-  - ✅ Business impact and recommendations
-
-### Video Structure Template
-
-```
-[0:00-2:00] Introduction & Research Gap
-[2:00-5:00] Proposed Solution & Architecture
-[5:00-8:00] Implementation & Code Demo
-[8:00-12:00] Results & Comparative Analysis
-[12:00-14:00] Cross-Validation & Discussion
-[14:00-15:00] Conclusions & Future Work
-```
-
----
+ 
 
 ## 💻 Installation & Usage
 
@@ -921,9 +885,9 @@ All visualizations are automatically generated and saved to `results/`:
 ## 📧 Contact & Support
 
 **Author**: Research Implementation Team  
-**Email**: researcher@example.com  
-**GitHub**: https://github.com/yourusername/attention-ensemble-medical-classifier  
-**Paper Preprint**: [ArXiv Link - To be added]
+**Email**: tejaspavithra2002@gmail.com  
+**GitHub**: https://github.com/tejas1024/attention-ensemble-medical-classifier  
+ 
 
 ---
 
@@ -937,7 +901,7 @@ MIT License - See LICENSE file for details
 
 - Pre-trained models: TensorFlow/Keras Applications
 - Datasets: Medical imaging research community
-- Compute resources: [Your institution/cloud provider]
+ 
 
 ---
 
@@ -946,7 +910,7 @@ MIT License - See LICENSE file for details
 If you use this work, please cite:
 
 ```bibtex
-@article{yourname2025attention,
+@article{Tejas2025attention,
   title={Attention-Enhanced Ensemble CNN for Medical Image Classification with Uncertainty Quantification},
   author={Your Name and Co-authors},
   journal={Target Journal},
