@@ -900,23 +900,6 @@ MIT License - See LICENSE file for details
 
 - Pre-trained models: TensorFlow/Keras Applications
 - Datasets: Medical imaging research community
- 
-
----
-
-## 📌 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{Tejas2025attention,
-  title={Attention-Enhanced Ensemble CNN for Medical Image Classification with Uncertainty Quantification},
-  author={Your Name and Co-authors},
-  journal={Target Journal},
-  year={2025},
-  doi={10.XXXX/journal.XXXX}
-}
-```
 
 ---
 
